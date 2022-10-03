@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Akhobadze</h1>
-<h3 align="center">I have experience in developing and creating control and automation systems, security systems, internal corporate systems, creating and managing databases, configuring and protecting software and hardware, designing IOT and creating programs for managing and monitoring processes in real time.</h3>
+<h3 align="center">I have experience in developing and creating control and automation systems, security systems, internal corporate systems, creating and managing databases, configuring and protecting software and hardware, designing IoT and creating programs for managing and monitoring processes in real time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagreatprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="gagreatprogrammer" /> </p>
 
