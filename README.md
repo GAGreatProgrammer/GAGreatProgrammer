@@ -12,11 +12,14 @@
 
 </p>
 
-<h3 align="center">My specialty is computer science, control systems, and network security.</h3>
+<p align="center">
+My specialty is computer science, control systems, and network security.</p>
 
-<h3 align="center">I have experience in ensuring computer security and protection against intrusion of computer systems, developing control and automation systems, security systems, internal corporate applications, personnel and visitor management systems, developing and managing relational and NoSQL databases, setting up and protecting software and hardware from internal and external threats, designing IoT and SCADA systems, and developing applications for managing and monitoring processes in real time.</h3>
+<p align="center">
+I have experience in ensuring computer security and protection against intrusion of computer systems, developing control and automation systems, security systems, internal corporate applications, personnel and visitor management systems, developing and managing relational and NoSQL databases, setting up and protecting software and hardware from internal and external threats, designing IoT and SCADA systems, and developing applications for managing and monitoring processes in real time.</p>
 
-<h3 align="center">Also, I develop programs to ensure the information security of users and prevent unauthorized access to personal data.</h3>
+<p align="center">
+Also, I develop programs to ensure the information security of users and prevent unauthorized access to personal data.</p>
 
 <br>
 
