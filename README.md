@@ -60,7 +60,7 @@ Also, I develop programs to ensure the information security of users and prevent
 
 <br>
 
-<h1 align="center">🏆 GitHub Profile Trophy</h1>
+<h1 align="center">🏆 GitHub Trophy</h1>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gagreatprogrammer&theme=gitdimmed&column=-1" alt="gagreatprogrammer" /></a> </p>
 
