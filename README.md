@@ -69,6 +69,6 @@ Also, I develop programs to ensure the information security of users and prevent
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align = "center">
-  <img height=195 src = "https://github-readme-stats.vercel.app/api?username=GAGreatProgrammer&theme=dark&hide_border=false&rank_icon=github&text_color=ffffff&show_icons=true&include_all_commits=false&count_private=false">
-  <img height=195 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GAGreatProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <img height=195 src = "https://github-readme-stats.vercel.app/api?username=GAGreatProgrammer&theme=dark&hide_border=false&rank_icon=github&text_color=ffffff&show_icons=true&count_private=true">
+  <img height=195 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GAGreatProgrammer&theme=dark&count_private=true">
 </p>
